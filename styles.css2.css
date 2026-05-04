@@ -1,0 +1,32 @@
+ /* Atribuição de estilo para o corpo da página */
+            h1 {
+                font-size: 50px;
+                
+            }
+            /* Atributo de estilo para todos as divs */
+            .allDivs {
+                border: 3px solid black;
+                border-radius: 15px;
+                text-align: center;
+            }
+            #div1 {
+                background-color: rgb(69, 142, 202);
+                width: 200px;
+                height: 200px;
+                font-family: Verdana, Geneva, Tahoma, sans-serif;
+                color: #FFFFFF;
+            }
+            #div2 {
+                background-color: rgb(69, 142, 202);
+                width: 200px;
+                height: 200px;
+                font-family: Verdana, Geneva, Tahoma, sans-serif;
+                color: #FFFFFF;
+            }
+            #div3 {
+                background-color: rgb(69, 142, 202);
+                width: 200px;
+                height: 200px;
+                font-family: Verdana, Geneva, Tahoma, sans-serif;
+                color: #FFFFFF;
+            }
